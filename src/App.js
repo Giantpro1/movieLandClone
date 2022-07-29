@@ -51,7 +51,7 @@ const App = () => {
         </div>
       ) : (
         <div className="empty">
-          <h2>No movies Found</h2>
+          <h2>No movies Found...</h2>
         </div>
       )}
     </div>
